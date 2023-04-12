@@ -27,3 +27,9 @@ body {
 #headingGroup span:hover {
   color: #1c9fea;
 }
+
+@media (max-width: 1200px) {
+  #headingGroup h2 {
+    color: aqua;
+  }
+}
