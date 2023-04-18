@@ -28,6 +28,10 @@ body {
   color: #1c9fea;
 }
 
+.navbar.scrolled {
+  background: palevioletred;
+}
+
 @media (max-width: 1200px) {
   #headingGroup h2 {
     color: aqua;
